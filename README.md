@@ -34,6 +34,10 @@ Mood-Based-AI-Chatbot/
 
 **Note:** The `.env` file is excluded from Git version control and should not be uploaded to GitHub.
 
+## DEPLOYMENT LINK
+
+STREAMLIT DEPLOY - https://mood-based-ai-chatbot-le5jfcmofbxpxjbunrk3re.streamlit.app/
+
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
